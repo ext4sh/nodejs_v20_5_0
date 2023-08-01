@@ -30,8 +30,11 @@ $ sudo pkg install git
 ```shell
 $ sudo slackpkg install git
 ```
-# How to run script?
 Use:
+```shell
+$ git clone https://github.com/ext4sh/nodejs_v20_5_0.git
+```
+# Run:
 ```shell
 $ cd nodejs_v20_5_0
 $ chmod a+x install.sh
